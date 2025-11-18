@@ -6,6 +6,8 @@ Major features that differ from existing Bengali font faces:
 2. Additional glyph for the Pāḷi consonant cluster `ñña` (`ঞ্ঞ U+099EU+09CDU+099E`)
 3. Additional glyphs for the Pāḷi consonant `ḷa` (`ল় U+09B2U+09BC`)
 
+![Sample rendering of glyphs](sample.png)
+
 Modified from [Kalpurush](https://github.com/potasiyam/Kalpurush). (Mentioned in compliance with Article 4) of PERMISSION & CONDITIONS of SIL OPEN FONT LICENSE Version 1.1)
 
 ```
