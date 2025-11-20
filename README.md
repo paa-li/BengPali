@@ -7,7 +7,7 @@ Major features that differ from existing Bengali font faces:
 3. Additional glyph for the Pāḷi consonant cluster `ñña` (`ঞ্ঞ U+099EU+09CDU+099E`)
 4. Additional glyphs for the Pāḷi consonant `ḷa` (`ল় U+09B2U+09BC`)
 
-[Test the font.](paa-li.github.io/BengPali/test)
+[Test the font.](https://paa-li.github.io/BengPali/test)
 
 ![Sample rendering of glyphs](sample.png)
 
